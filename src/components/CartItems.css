@@ -1,0 +1,33 @@
+.cart-data {
+  text-align: center;
+}
+
+.cart-data > p {
+  margin: 0;
+}
+
+.cart-box {
+  background-color: #897b7b12;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-family: Segoe UI;
+}
+
+.cart-box__row {
+  align-items: center;
+  padding: 5px;
+  color: #e31a1aa8;
+}
+
+.cart-heading {
+  color: #011705;
+}
+
+.empty-cart {
+  color: #e31a1aa8;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
